@@ -1,0 +1,26 @@
+{
+  "start": "Welcome Dear 👋🏻\!\! I am a lewd bot created by [@waifus\.unreal](https://instagram\.com/waifus\.unreal)
+
+*Below are the commands you can use:*
+/waifu:\- get a random waifu
+/ecchi:\- get ecchi waifu
+/kawaii:\- get kawaii waifu
+/nudes:\- get nude waifu
+/lewd:\- get a lewd message
+/join:\- join our telegram group
+/help:\- ask for help",
+  "help": "You need some help 😮‍💨\?\? Before that follow [@waifus\.unreal](https://instagram\.com/waifus\.unreal) on instagram, if you alreay hadn't 👻\!\!
+
+*And here are some commands you can use, if you are lost 😝:*
+/waifu:\- get a random waifu 
+/ecchi:\- get ecchi waifu
+/kawaii:\- get kawaii waifu
+/nudes:\- get nude waifu
+/lewd:\- get a lewd message
+/join:\- join our telegram group",
+  "join": "Join our [telegram group](https://t\.me/waifusunreal) to participate in waifus discussions 😊\!\!",
+  "error": "An error occurred. Please try again.",
+  "inprogress": "This functionality is not available yet. Please try again later.",
+  "welcome": "Welcome, {member.first_name}! 😘 Get ready for some lewd fun in our group! Type /help for assistance.",
+  "other": "I don't understand that command. Type /help for a list of available commands."
+}
